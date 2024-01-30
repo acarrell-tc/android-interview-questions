@@ -670,3 +670,5 @@ corresponding component is destroyed, preventing memory leaks.
 In Android ViewModel, coroutine scopes are commonly used to launch coroutines that are bound to the ViewModel’s
 lifecycle. This ensures that these coroutines are cancelled when the ViewModel is cleared, preventing potential memory
 leaks and providing proper lifecycle management.
+
+Source: https://medium.com/@sujathamudadla1213/android-kotlin-coroutines-interview-questions-6118b7725f54

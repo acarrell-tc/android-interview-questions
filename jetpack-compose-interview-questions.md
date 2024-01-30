@@ -225,3 +225,5 @@ Use the remember function to cache expensive computations and avoid unnecessary 
 Use the key parameter to explicitly control the identity of Composable functions and optimize the diffing algorithm.
 Use LaunchedEffect and other coroutine-based APIs to perform asynchronous operations off the main thread and ensure
 smooth and responsive user interfaces in Jetpack Compose.
+
+Source: https://medium.com/@sujathamudadla1213/interview-questions-on-android-jetpack-compose-a9a28759ef11

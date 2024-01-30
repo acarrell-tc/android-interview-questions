@@ -806,3 +806,5 @@ tasks list. It provides an opportunity to perform cleanup tasks or to stop the s
  A Local Broadcast is a mechanism for sending and receiving broadcasts within the same application. It is
  useful when components within the same process need to communicate efficiently without the overhead of system-wide
  broadcasts.
+ 
+Source: https://medium.com/@sujathamudadla1213/android-services-interview-questions-584bf63f2b69

@@ -602,3 +602,5 @@ It is part of Kotlin’s coroutines library.
 
 SharedFlow is a hot flow that shares emitted values among all its collectors. It is part of Kotlin’s
 coroutines library.
+
+Source: https://medium.com/@sujathamudadla1213/android-architecture-components-interview-question-and-answer-9d28db97c0fb

@@ -549,3 +549,5 @@ Call<ResponseBody> uploadFile(@Part MultipartBody.Part filePart);
 
 Implementing offline-first synchronization involves storing changes made offline and synchronizing them
 with the server when the device is back online. Strategies include using a local database and handling conflicts.
+
+Source: https://medium.com/@sujathamudadla1213/android-retrofit-interview-questions-eefdef6dc09c

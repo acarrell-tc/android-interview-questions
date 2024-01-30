@@ -1,6 +1,5 @@
 Modern Android Interview Questions
 ==================================
-<!-- TOC -->
 * [Modern Android Interview Questions](#modern-android-interview-questions)
 * [Java ☕️](#java-)
 * [Android](#android)
@@ -9,7 +8,6 @@ Modern Android Interview Questions
 * [Testing 🐛](#testing-)
 * [Data Structure](#data-structure)
 * [Others](#others)
-<!-- TOC -->
 
 Java ☕️
 =======
@@ -115,3 +113,5 @@ If you have **5+ years** of experience, it’s recommended to prepare for this s
 *   Explain the architecture of the communication application, and what data security measures you take while developing.
 *   How do you keep up to date yourself with the latest development?
 *   Any contribution to the community? Git, StackOverflow
+
+Source: https://proandroiddev.com/modern-android-interview-questions-f2b9889102ee
