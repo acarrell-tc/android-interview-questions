@@ -343,7 +343,7 @@ Android Interview Questions and Answers:
 * **What is `Intent`?** - [Learn from here](https://developer.android.com/guide/components/intents-filters)
 
 * **What is an Implicit `Intent`?** - [Learn from here](https://developer.android.com/guide/components/intents-filters)
-
+        
 * **What is an Explicit `Intent`?** - [Learn from here](https://developer.android.com/guide/components/intents-filters)
 
 * **What is a `BroadcastReceiver`?** - [Learn from here](https://developer.android.com/guide/components/broadcasts)
@@ -503,7 +503,7 @@ Android Interview Questions and Answers:
 
 * **Explain the Android push notification system?** Learn from here: [How does the Android push notification system work?](https://youtu.be/810IFG2sWlc)
 
-* **What is the difference between Serializable and Parcelable? Which is the best approach in Android?**
+* **What is the difference between Serializable and Parcelable? Which is the best approach in Android?** 
     - Use the Parcelable class instead of Serializable when passing data in Intents or Bundles. The serialization of an object that implements the Parcelable interface is much faster than using Java’s default serialization. A class that implements the Serializable interface is marked as serializable, and Java serializes it using reflection (which makes it slow). When using the Parcelable interface, the whole object doesn’t get serialized automatically. Rather, you can selectively add data from the object to a Parcel using which the object is later deserialized. Similarly, you can consider the Parcelable in Kotlin.
 
 * **What is AAPT?** - [Learn from here](https://developer.android.com/studio/command-line/aapt2)
@@ -690,18 +690,18 @@ Android Interview Questions and Answers:
 
 * **Explain OOP Concepts.**
 
-* **Differences between abstract classes and interfaces?**
-    - An abstract class, is a class that contains both concrete and abstract methods
-      (methods without implementations). An abstract method must be implemented by the abstract class
-      sub-classes. Abstract classes cannot be instantiated and need to be extended to be used.
-    - An interface is like a blueprint/contract of a class (or it may be thought of as a class with methods, but without their implementation). It contains empty methods that
-      represent, what all of its subclasses should have in common. The subclasses provide the
-      implementation for each of these methods. Interfaces are implemented.
+* **Differences between abstract classes and interfaces?** 
+    - An abstract class, is a class that contains both concrete and abstract methods 
+    (methods without implementations). An abstract method must be implemented by the abstract class
+     sub-classes. Abstract classes cannot be instantiated and need to be extended to be used.
+    - An interface is like a blueprint/contract of a class (or it may be thought of as a class with methods, but without their implementation). It contains empty methods that 
+    represent, what all of its subclasses should have in common. The subclasses provide the 
+    implementation for each of these methods. Interfaces are implemented.
 
 * **Difference between method overloading and overriding.**
 
 * **What are the access modifiers you know? What does each one do?**
-    - There are four access modifiers in Java language (from strictest to the most lenient):
+   - There are four access modifiers in Java language (from strictest to the most lenient):
         1. `private` *variables*, *methods*, *constructors* or *inner classes* are only visible to its' containing class and its' methods. This modifier is most commonly used, for example, to allow variable access only through getters and setters or to hide underlying implementation of classes that should not be used by user and therefore maintain encapsulation. Singleton constructor is also marked `private` to avoid unwanted instantiation from outside.
         2. `Default` (no keyword is used) this modifier can be applied to *classes*, *variables*, *constructors* and *methods* and allows access from classes and methods inside the same package.
         3. `protected` can be used on *variables*, *methods* and *constructors* therefore allowing access only to subclasses and classes that are inside the same package as protected members' class.
