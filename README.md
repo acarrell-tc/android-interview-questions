@@ -925,6 +925,8 @@ You can connect with me on:
 * [Android Architecture Components Interview Questions](./architectural-components-interview-questions.md)
 * [Android Service Interview Questions](./android-service-interview-questions.md)
 * [Kotlin Coroutine Interview Questions](./kotlin-coroutines-interview-questions.md)
+* [Kotlin Flow Interview Questions](./kotlin-flow-interview-questions.md)
 * [Jetpack Compose Interview Questions](./jetpack-compose-interview-questions.md)
 * [Android Retrofit Interview Questions](./retrofit-interview-questions.md)
+* [GraphQL Interview Questions](./graphql-interview-questions.md)
 * [Mobile Architect Interview Questions](./mobile-architect-interview-questions.md)

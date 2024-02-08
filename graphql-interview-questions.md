@@ -1248,3 +1248,5 @@ directive @cacheControl(
   inheritMaxAge: Boolean
 ) on FIELD_DEFINITION | OBJECT | INTERFACE
 ```
+
+Source: https://github.com/Devinterview-io/graphql-interview-questions
