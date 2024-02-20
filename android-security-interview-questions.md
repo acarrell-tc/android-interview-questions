@@ -1,3 +1,32 @@
+Android Security Interview Questions
+====================================
+
+* [1. How does Android’s application sandboxing model work to isolate apps from each other and protect users’ data?](#1-how-does-androids-application-sandboxing-model-work-to-isolate-apps-from-each-other-and-protect-users-data)
+* [2. Describe the main components of Android’s security architecture and their roles in maintaining a secure environment.](#2-describe-the-main-components-of-androids-security-architecture-and-their-roles-in-maintaining-a-secure-environment)
+* [3. Explain the role of SELinux in Android Security. How does it enforce mandatory access controls?](#3-explain-the-role-of-selinux-in-android-security-how-does-it-enforce-mandatory-access-controls)
+* [4. What is the Android Keystore System and how does it help secure sensitive user data?](#4-what-is-the-android-keystore-system-and-how-does-it-help-secure-sensitive-user-data)
+* [5. Explain the concept of code signing in the Android platform. How does it help ensure app integrity and authenticity?](#5-explain-the-concept-of-code-signing-in-the-android-platform-how-does-it-help-ensure-app-integrity-and-authenticity)
+* [6. What security measures can be taken to ensure secure communication between an Android app and a web server?](#6-what-security-measures-can-be-taken-to-ensure-secure-communication-between-an-android-app-and-a-web-server)
+* [7. Describe the key features and advantages of using Android’s SafetyNet API.](#7-describe-the-key-features-and-advantages-of-using-androids-safetynet-api)
+* [8. How can application developers use encryption to protect user data stored on an Android device? Provide a brief overview of various encryption algorithms and their usage in Android.](#8-how-can-application-developers-use-encryption-to-protect-user-data-stored-on-an-android-device-provide-a-brief-overview-of-various-encryption-algorithms-and-their-usage-in-android)
+* [9. What is the role of the Android permission model, and how can developers minimize the risk of permission-related security vulnerabilities?](#9-what-is-the-role-of-the-android-permission-model-and-how-can-developers-minimize-the-risk-of-permission-related-security-vulnerabilities)
+* [10. Describe Android’s secure boot process and the steps involved in verifying the integrity of the platform.](#10-describe-androids-secure-boot-process-and-the-steps-involved-in-verifying-the-integrity-of-the-platform)
+* [11. Explain the main differences between symmetric and asymmetric encryption and give examples of when each should be used in Android security.](#11-explain-the-main-differences-between-symmetric-and-asymmetric-encryption-and-give-examples-of-when-each-should-be-used-in-android-security)
+* [12. How do you create, store, and manage a private key securely within an Android app for encryption or signing purposes?](#12-how-do-you-create-store-and-manage-a-private-key-securely-within-an-android-app-for-encryption-or-signing-purposes)
+* [13. What is the role of obfuscation in Android app security, and what tools can be used to obfuscate Android app code?](#13-what-is-the-role-of-obfuscation-in-android-app-security-and-what-tools-can-be-used-to-obfuscate-android-app-code)
+* [14. Discuss the importance of Android’s hardware-backed security features such as the Trusted Execution Environment (TEE) and hardware-backed key storage.](#14-discuss-the-importance-of-androids-hardware-backed-security-features-such-as-the-trusted-execution-environment-tee-and-hardware-backed-key-storage)
+* [15. Explain the difference between input validation and output encoding and why both are essential for securing an Android app against injection attacks.](#15-explain-the-difference-between-input-validation-and-output-encoding-and-why-both-are-essential-for-securing-an-android-app-against-injection-attacks)
+* [16. Describe some common techniques for performing a static and dynamic analysis of Android apps to identify potential security vulnerabilities.](#16-describe-some-common-techniques-for-performing-a-static-and-dynamic-analysis-of-android-apps-to-identify-potential-security-vulnerabilities)
+* [17. Discuss some best practices for securely handling user authentication and session management in an Android app.](#17-discuss-some-best-practices-for-securely-handling-user-authentication-and-session-management-in-an-android-app)
+* [18. What is Android’s FIDO2 support, and how does it improve authentication security?](#18-what-is-androids-fido2-support-and-how-does-it-improve-authentication-security)
+* [19. What are some common Android app reverse engineering techniques, and how can developers defend against them?](#19-what-are-some-common-android-app-reverse-engineering-techniques-and-how-can-developers-defend-against-them)
+* [20. Explain the concept of Certificate Pinning in Android and how it can improve the security of secure network communication.](#20-explain-the-concept-of-certificate-pinning-in-android-and-how-it-can-improve-the-security-of-secure-network-communication)
+* [21. How can Android app developers ensure that the WebView component is used securely?](#21-how-can-android-app-developers-ensure-that-the-webview-component-is-used-securely)
+* [22. What is the difference between using biometric authentication (e.g., fingerprint, face recognition) and password-based authentication, and which one is more secure for Android app users?](#22-what-is-the-difference-between-using-biometric-authentication-eg-fingerprint-face-recognition-and-password-based-authentication-and-which-one-is-more-secure-for-android-app-users)
+* [23. What are some common secure coding practices for Android app development?](#23-what-are-some-common-secure-coding-practices-for-android-app-development)
+* [24. Describe some strategies for detecting and mitigating tampering or piracy attempts in Android apps.](#24-describe-some-strategies-for-detecting-and-mitigating-tampering-or-piracy-attempts-in-android-apps)
+* [25. Discuss the concept of a virtual private network (VPN) and the role it plays in enhancing the security and privacy of Android users.](#25-discuss-the-concept-of-a-virtual-private-network-vpn-and-the-role-it-plays-in-enhancing-the-security-and-privacy-of-android-users)
+
 ### 1. How does Android’s application sandboxing model work to isolate apps from each other and protect users’ data?
 
 Android’s application sandboxing model isolates apps by assigning each app a unique user ID (UID) and running them in
