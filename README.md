@@ -934,6 +934,7 @@ You can connect with me on:
 * [Kotlin Flow Interview Questions](./kotlin-flow-interview-questions.md)
 * [Jetpack Compose Interview Questions](./jetpack-compose-interview-questions.md)
 * [Android Retrofit Interview Questions](./retrofit-interview-questions.md)
+* [Dependency Injection Interview Questions](./dependency-injection-interview-questions.md)
 * [Object-Oriented Programming Interview Questions](./object-oriented-programming-interview-questions.md)
 * [GraphQL Interview Questions](./graphql-interview-questions.md)
 * [Mobile Architect Interview Questions](./mobile-architect-interview-questions.md)
