@@ -487,13 +487,15 @@ Android Interview Questions and Answers:
 * **What is a `Spannable`?**
 
 * **What is a `SpannableString`?**
-    - A SpannableString has immutable text, but its span information is mutable. Use a SpannableString when your text doesn't need to be changed but the styling does. Spans are ranges over the text that include styling information like color, heighliting, italics, links, etc
+   - A SpannableString has immutable text, but its span information is mutable. Use a SpannableString when your text doesn't need to be changed but the styling does. Spans are ranges over the text that include styling information like color, highlighting, italics, links, etc
 
 * **What are the best practices for using text in Android?**
 
 * **How to implement Dark mode in any application?**
 
 #### Memory Optimizations
+
+* **Improve Android App Performance** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7314877712815345664-iB7z)
 
 * **What is the `onTrimMemory()` method?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7267752779727679488--kk4)
 
@@ -503,7 +505,7 @@ Android Interview Questions and Answers:
 
 #### Battery Life Optimizations
 
-* **How to reduce battery usage in an android application?**
+* **How to reduce battery usage in an Android application?**
 
 * **What is Doze? What about App Standby?** - [Learn from here](https://developer.android.com/training/monitoring-device-state/doze-standby)
 
@@ -531,6 +533,8 @@ Android Interview Questions and Answers:
 
 * **What are the differences between Dalvik and ART?** - [Difference between Dalvik and ART](https://outcomeschool.com/blog/dalvik-art-jit-aot)
 
+* **Baseline Profiles** - [Learn from here](https://outcomeschool.com/blog/dalvik-art-jit-aot)
+
 * **What is DEX?** - [Learn from here](https://developer.android.com/reference/dalvik/system/DexFile)
 
 * **What is Multidex in Android?** - [Learn from here](https://www.youtube.com/watch?v=R0zd8lmHnmE)
@@ -556,6 +560,8 @@ Android Interview Questions and Answers:
 * **How do you share ViewModel between Fragments in Android?** Learn: [SharedViewModel in Android](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7262328327531577344-fwSE)
 
 * **Explain WorkManager and its use cases.**
+
+* **Minimum repeat interval allowed when scheduling a PeriodicWorkRequest using WorkManager** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_androiddev-kotlin-activity-7314239540246810625-Xu0T)
 
 * **How does ViewModel work internally?**
 
