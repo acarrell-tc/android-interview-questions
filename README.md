@@ -273,6 +273,12 @@ Android Interview Questions and Answers:
 
 * **Delegates in Kotlin** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7301107785302249474-WyDC)
 
+* **stateIn vs shareIn in Kotlin Flow** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_statein-vs-sharein-in-kotlin-flow-activity-7315963238318321664-BdYk)
+
+* **flatMapConcat, flatMapMerge, and flatMapLatest in Kotlin Flow** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7316049746022801409-OoTY)
+
+* **collect vs collectLatest in Kotlin Flow** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_kotlin-androiddev-activity-7316095893273788417-BJSn)
+
 ### Android
 
 Android Interview Questions and Answers:
@@ -422,6 +428,8 @@ Android Interview Questions and Answers:
 
 * **What is a `JobScheduler`?** - [Learn from here](https://developer.android.com/reference/android/app/job/JobScheduler)
 
+* **How Does WorkManager Guarantee Task Execution?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_how-does-workmanager-guarantee-task-execution-activity-7320301933691310080-GpCR)
+
 #### Inter-process Communication
 
 * **How can two distinct Android apps interact?** - [Learn from here](https://developer.android.com/training/basics/intents)
@@ -472,7 +480,7 @@ Android Interview Questions and Answers:
 
 * **How would you preserve the `Activity` state during a screen rotation?** - [Learn from here](https://www.youtube.com/watch?v=ORtieK5f_zg)
 
-* **What are different ways to store data in your Android app?**
+* **What are different ways to store data in your Android app?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7301836718003888128-oNi2)
 
 * **Explain Scoped Storage in Android.**
 
@@ -507,7 +515,7 @@ Android Interview Questions and Answers:
 
 * **How to reduce battery usage in an Android application?**
 
-* **What is Doze? What about App Standby?** - [Learn from here](https://developer.android.com/training/monitoring-device-state/doze-standby)
+* **What is Doze? What about App Standby?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_androiddev-activity-7319939901418795008-KRql)
 
 * **What is `overdraw`?** - [Learn from here](https://developer.android.com/topic/performance/rendering/overdraw.html)
 
@@ -551,6 +559,8 @@ Android Interview Questions and Answers:
 
 * **What are Android Architecture Components?**
 
+* **StateFlow vs LiveData in Android Development** Learn: [StateFlow vs LiveData](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7316320147646885888-ZpyD)
+
 * **What is LiveData in Android?**
 
 * **How is LiveData different from ObservableField?**
@@ -562,6 +572,8 @@ Android Interview Questions and Answers:
 * **Explain WorkManager and its use cases.**
 
 * **Minimum repeat interval allowed when scheduling a PeriodicWorkRequest using WorkManager** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_androiddev-kotlin-activity-7314239540246810625-Xu0T)
+
+* **How Does WorkManager Guarantee Task Execution?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_how-does-workmanager-guarantee-task-execution-activity-7320301933691310080-GpCR)
 
 * **How does ViewModel work internally?**
 
@@ -600,6 +612,8 @@ Android Interview Questions and Answers:
 * **How to enable logging in OkHttp?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_softwareengineer-androiddev-android-activity-7274652524433850368-qC4D)
 
 * **Why do we use the Dependency Injection Framework like Dagger in Android?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-activity-7038019147737276417-tH4s)
+
+* **Explain @ Inject, @ Module, @ Provides, @ Component Annotations in Dagger 2** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_androiddev-android-kotlin-activity-7318124163481628673-EAYM)
 
 * **How does the Dagger work?**
 
@@ -664,6 +678,8 @@ Android Interview Questions and Answers:
 * **Software Architecture vs Software Design** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7230434583584858112-mMEG)
 
 * **Benefits of Multi-Module Architecture** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_androiddev-activity-7307324491402027008-BqC4)
+
+* **Multi-Module Project: Why and When?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7317400201558663173-n-LA)
 
 ### Design Pattern
 
