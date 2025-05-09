@@ -19,7 +19,9 @@ You can connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
 - [GitHub](https://github.com/amitshekhariitbhu)
 
-## **Join Outcome School and get high paying tech job: [Outcome School](https://outcomeschool.com)**
+## **Join Outcome School and get high-paying tech job: [Outcome School](https://outcomeschool.com)**
+
+## For knowledge-packed content: Subscribe to our [Outcome School YouTube Channel](https://www.youtube.com/@OutcomeSchool)
 
 ## Contents - Android Interview Questions
 
@@ -41,6 +43,8 @@ You can connect with me on:
 
 ### Android Interview Questions and Answers Playlist
 
+- **Question**: Android Push Notification Flow using FCM
+    - **Answer**: [Android Push Notification Flow using FCM](https://www.youtube.com/watch?v=TrufwW4ILHg)
 - **Question**: What is an inline function in Kotlin?
     - **Answer**: [What is an inline function in Kotlin?](https://www.youtube.com/watch?v=GLLI8h67ryo)
 - **Question**: What is the advantage of using const in Kotlin?
@@ -264,6 +268,8 @@ Android Interview Questions and Answers:
 * **How do you combine multiple coroutine results?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_softwareengineer-androiddev-android-activity-7267827335393873920-v6t3)
 
 * **What is a Job in Coroutines?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7268842850140721153-vw9E)
+
+* **Coroutines job.cancel() vs scope.cancel()** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7321028335784894465-HCrl)
 
 * **How to Implement Debounce Using Coroutines?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7285163906686164994-tOUK)
 
@@ -1113,7 +1119,7 @@ Android Interview Questions and Answers:
 
 * **How does the Android Push Notification system work?** Learn from here: [How does the Android Push Notification system work?](https://youtu.be/810IFG2sWlc)
 
-* **Android Push Notification Flow using FCM.** Learn from here: [Android Push Notification Flow using FCM](https://outcomeschool.com/blog/android-push-notification-flow-using-fcm)
+* **Android Push Notification Flow using FCM.** Learn from here: [Android Push Notification Flow using FCM](https://www.youtube.com/watch?v=TrufwW4ILHg)
 
 * **How to show local Notification at an exact time?**
 
@@ -1124,6 +1130,8 @@ Android Interview Questions and Answers:
 ### High-quality videos to prepare for Android Interview - [Amit Shekhar YouTube Channel](https://www.youtube.com/@amitshekhar)
 
 ### High-quality blogs to prepare for Android Interview - [Check here - Outcome School Blog](https://outcomeschool.com/blog)
+
+### Prepare for Machine Learning Interview: [Machine Learning Interview Questions](https://github.com/amitshekhariitbhu/machine-learning-interview-questions)
 
 ### Found this project useful :heart:
 
