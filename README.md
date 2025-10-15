@@ -6,22 +6,30 @@
 
 > Android Interview Questions and Answers - Your Cheat Sheet For Android Interview
 
-### Prepared and maintained by [Amit Shekhar](https://github.com/amitshekhariitbhu) - Coder | Teacher | Mentor | Open Source | IIT 2010-14
+### Prepared and maintained by the **Founder** of [Outcome School](https://outcomeschool.com): Amit Shekhar
 
 ## About me
 
-Hi, I am Amit Shekhar, Co-Founder @ [Outcome School](https://outcomeschool.com) • IIT 2010-14 • I have taught and mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
+Hi, I am Amit Shekhar, Founder @ [Outcome School](https://outcomeschool.com) • IIT 2010-14 • I have taught and mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
 
 You can connect with me on:
 
-- [Twitter](https://twitter.com/amitiitbhu)
+- [X/Twitter](https://x.com/amitiitbhu)
 - [YouTube](https://www.youtube.com/@amitshekhar)
 - [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
 - [GitHub](https://github.com/amitshekhariitbhu)
 
-## **Join Outcome School and get high-paying tech job: [Outcome School](https://outcomeschool.com)**
+## Live session on "Android Developer Interview Preparation for Product-based Companies"
 
-## For knowledge-packed content: Subscribe to our [Outcome School YouTube Channel](https://www.youtube.com/@OutcomeSchool)
+I conducted a live session on "Android Developer Interview Preparation for Product-based Companies"
+
+Interacted with over **500 Android Developers**.
+
+Guided, motivated, and inspired them to aim higher and achieve more.
+
+**Recording Link**: https://drive.google.com/file/d/1VWW3l_itH6vYbNYzNer6XW5_x0jzOF4O/view?usp=sharing
+
+**Document Link**: https://docs.google.com/document/d/14UdD7Gd1j3no583ALx2t2Ggt3G_CECYhenLE-m-bkzA/edit?usp=sharing
 
 ## Contents - Android Interview Questions
 
@@ -36,8 +44,8 @@ You can connect with me on:
 * [Android System Design](#android-system-design) and check [Android System Design Interviews](https://outcomeschool.com/blog/android-system-design-interviews) 
 * [Android Unit Testing](#android-unit-testing)
 * [Android Tools And Technologies](#android-tools-and-technologies)
-* [Java](#java)
 * [Jetpack Compose](#jetpack-compose)
+* [Java](#java)
 * [Other Topics](#other-topics)
 * [Data Structures and Algorithms](#data-structures-and-algorithms) 
 
@@ -102,6 +110,8 @@ Topics you should know in **Kotlin Coroutines** for Android Interview:
 * lifecycleScope, viewModelScope, GlobalScope
 * suspendCoroutine, suspendCancellableCoroutine
 * coroutineScope, supervisorScope
+* runBlocking
+* Exception Handling
 
 Learn the above-mentioned from the following links:
 
@@ -223,7 +233,7 @@ Android Interview Questions and Answers:
 
 * **How to do lazy initialization of variables in Kotlin?** - [Learn from here](https://outcomeschool.com/blog/lateinit-vs-lazy-in-kotlin)
 
-* **What are the visibility modifiers in Kotlin?** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_outcomeschool-softwareengineer-tech-activity-7305070243620544512-NqDW)
+* **What are the visibility modifiers in Kotlin?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7371540850289336320-2zxw)
 
 * **What is the equivalent of Java static methods in Kotlin?** - [Learn from here](https://stackoverflow.com/questions/40352684/what-is-the-equivalent-of-java-static-methods-in-kotlin)
 
@@ -259,6 +269,8 @@ Android Interview Questions and Answers:
 
 * **Sealed Classes in Kotlin** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_sealed-classes-in-kotlin-activity-7311611732269887488-nKZI)
 
+* **Sealed classes common use-cases in Android** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7371392998867329024-5v9t)
+
 * **Tell about the Collections in Kotlin** - [Learn from here](https://kotlinlang.org/docs/collections-overview.html)
 
 * **What does ?: do in Kotlin? (Elvis Operator)** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7269313270669295618-g6kJ)
@@ -267,9 +279,11 @@ Android Interview Questions and Answers:
 
 * **How do you combine multiple coroutine results?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_softwareengineer-androiddev-android-activity-7267827335393873920-v6t3)
 
-* **What is a Job in Coroutines?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7268842850140721153-vw9E)
+* **What is a Job in Coroutines?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_job-in-coroutines-activity-7372874272559656961-LIaI)
 
 * **Coroutines job.cancel() vs scope.cancel()** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7321028335784894465-HCrl)
+
+* **What happens if an exception is thrown inside an async coroutine, but await() is never called?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_kotlin-androiddev-activity-7353980436689145856-CTeE)
 
 * **How to Implement Debounce Using Coroutines?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7285163906686164994-tOUK)
 
@@ -283,7 +297,7 @@ Android Interview Questions and Answers:
 
 * **flatMapConcat, flatMapMerge, and flatMapLatest in Kotlin Flow** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7316049746022801409-OoTY)
 
-* **collect vs collectLatest in Kotlin Flow** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_kotlin-androiddev-activity-7316095893273788417-BJSn)
+* **collect vs collectLatest in Kotlin Flow** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-kotlin-activity-7371769230389731328-UXPY)
 
 ### Android
 
@@ -318,6 +332,8 @@ Android Interview Questions and Answers:
 * **What is onSaveInstanceState() and onRestoreInstanceState() in activity?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7301985158608392193-pA5M)
 
 * **What is `Fragment` and its lifecycle?** - [Learn from here](https://developer.android.com/guide/fragments/lifecycle)
+
+* **What is Bundle in Android?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7355846437718413316-jRI4)
 
 * **What are "launchMode"?** - [Learn from here](https://outcomeschool.com/blog/singletask-launchmode-in-android) and [singleTask launchMode in Android](https://youtu.be/WYkQEnm4jeI)
 
@@ -354,7 +370,7 @@ Android Interview Questions and Answers:
     - View: View objects are the basic building blocks of User Interface(UI) elements in Android. View is a simple rectangle box which responds to the user’s actions. Examples are EditText, Button, CheckBox etc. View refers to the android.view.View class, which is the base class of all UI classes.
     - ViewGroup: ViewGroup is the invisible container. It holds View and ViewGroup. For example, LinearLayout is the ViewGroup that contains Button(View), and other Layouts also. ViewGroup is the base class for Layouts.
 
-* **What is a Canvas?** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_androiddev-android-activity-7301608732671520771-7WLF)
+* **What is a Canvas?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-android-activity-7324642674039291906-emlX)
 
 * **What is a `SurfaceView`?** - [Learn from here](https://developer.android.com/reference/android/view/SurfaceView)
 
@@ -410,9 +426,6 @@ Android Interview Questions and Answers:
 
 * **What is a `BroadcastReceiver`?** - [Learn from here](https://developer.android.com/guide/components/broadcasts)
 
-* **What is a Sticky `Intent`?**
-    - Sticky Intents allows communication between a function and a service. sendStickyBroadcast() performs a sendBroadcast(Intent) known as sticky, i.e. the Intent you are sending stays around after the broadcast is complete, so that others can quickly retrieve that data through the return value of registerReceiver(BroadcastReceiver, IntentFilter). For example, if you take an intent for ACTION_BATTERY_CHANGED to get battery change events: When you call registerReceiver() for that action — even with a null BroadcastReceiver — you get the Intent that was last Broadcast for that action. Hence, you can use this to find the state of the battery without necessarily registering for all future state changes in the battery.
-
 * **Describe how broadcasts and intents work to be able to pass messages around your app?** - [Learn from here](https://stackoverflow.com/questions/7276537/using-a-broadcast-intent-broadcast-receiver-to-send-messages-from-a-service-to-a)
 
 * **What is a `PendingIntent`?**
@@ -454,11 +467,7 @@ Android Interview Questions and Answers:
 
 * **What is ANR? How can the ANR be prevented?** - [Learn from here](https://developer.android.com/topic/performance/vitals/anr.html)
 
-* **ThreadPool Advantages** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_outcomeschool-softwareengineer-tech-activity-7308034827574816768-RwEE)
-
-* **What is an `AsyncTask`(Deprecated in API level 30) ?**
-
-* **What are the problems in AsyncTask?**
+* **ThreadPool Advantages** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7371117281713508352-x2Uf)
 
 * **Daemon Threads vs. User Threads** - [Learn from here](https://x.com/amitiitbhu/status/1817783254885478872)
 
@@ -466,7 +475,7 @@ Android Interview Questions and Answers:
 
 * **Garbage Collection** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_java-tech-softwareengineer-activity-7308111597581799425-qZN0)
 
-* **Android Memory Leak**
+* **Memory Leak vs Out of Memory(OOM) Error** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7344037400857219072-O_pe)
 
 * **Can you explain the difference between a Runnable and a Thread in Android?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_softwareengineer-androiddev-android-activity-7279784055284420609-Xa8b)
 
@@ -519,6 +528,8 @@ Android Interview Questions and Answers:
 
 #### Battery Life Optimizations
 
+* **How Android Implements Adaptive Battery Using ML?** - [How Android Implements Adaptive Battery Using ML?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_machinelearning-android-mobiledevelopment-activity-7375026631951917056-k0CB)
+
 * **How to reduce battery usage in an Android application?**
 
 * **What is Doze? What about App Standby?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_androiddev-activity-7319939901418795008-KRql)
@@ -555,6 +566,8 @@ Android Interview Questions and Answers:
 
 * **Can you manually call the Garbage collector?** - [Is it possible to force Garbage Collection in Android?](https://www.youtube.com/watch?v=fPEjpFKo1-Q)
 
+* **Android App Starts: Hot, Warm & Cold** - [Android App Starts: Hot, Warm & Cold](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-activity-7374668708679462912-DPH3)
+
 #### Android Jetpack
 
 * **What is Android Jetpack and why to use this?**
@@ -567,7 +580,7 @@ Android Interview Questions and Answers:
 
 * **StateFlow vs LiveData in Android Development** Learn: [StateFlow vs LiveData](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7316320147646885888-ZpyD)
 
-* **What is LiveData in Android?**
+* **What is LiveData in Android?** [What is LiveData in Android?](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7371905311613509632-dGPM)
 
 * **How is LiveData different from ObservableField?**
 
@@ -598,6 +611,8 @@ Android Interview Questions and Answers:
 * **FlatBuffers vs JSON.**
 
 * **`HashMap`, `ArrayMap` and `SparseArray`** - [Learn from here](https://outcomeschool.com/blog/optimization-using-arraymap-and-sparsearray)
+
+* **Advantages of SparseArray in Android** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7370662503024025600-rhVN)
 
 * **What are Annotations?** - [Learn from here](https://outcomeschool.com/blog/creating-custom-annotations)
 
@@ -683,7 +698,7 @@ Android Interview Questions and Answers:
 
 * **Software Architecture vs Software Design** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7230434583584858112-mMEG)
 
-* **Benefits of Multi-Module Architecture** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_androiddev-activity-7307324491402027008-BqC4)
+* **Benefits of Multi-Module Architecture** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_androiddev-activity-7371759614591234048-oVH4)
 
 * **Multi-Module Project: Why and When?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7317400201558663173-n-LA)
 
@@ -691,7 +706,7 @@ Android Interview Questions and Answers:
 
 Android Interview Questions and Answers
 
-* **Builder** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_outcomeschool-softwareengineer-tech-activity-7297905207080800256-sRuJ)
+* **Builder** - [Learn from here](https://outcomeschool.substack.com/p/design-patterns-in-android-libraries)
 * **Singleton**
 * **Factory** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7300164529571733505-MYfP)
 * **Observer** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7298657173910233089-3qzw)
@@ -699,11 +714,12 @@ Android Interview Questions and Answers
 * **Adapter**
 * **Facade**
 * **Dependency Injection**
-* **Design Pattern used in Android** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7289501147243982848-hhym)
+* **Design Pattern used in Android** - [Learn from here](https://outcomeschool.substack.com/p/design-patterns-in-android-libraries)
 * **Kotlin Optional Parameters vs Builder Pattern** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7270656113845370881-LDW8)
 * **Examples of the Observer pattern used in Android** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-activity-7288114509120970752-Z6c8)
-* **Design Pattern Used in Retrofit Library Source Code** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-opensource-activity-7289173219142516738-3sjB/)
-* **Design Pattern used in Glide (Image Loading Library)** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_androiddev-android-opensource-activity-7294335764249595904-6LSD)
+* **Design Pattern Used in Retrofit Library Source Code** - [Learn from here](https://outcomeschool.substack.com/p/design-patterns-in-android-libraries)
+* **Design Pattern used in Glide (Image Loading Library)** - [Learn from here](https://outcomeschool.substack.com/p/design-patterns-in-android-libraries)
+* **Design Patterns used in AOSP (Android Open Source Project)** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7373202625908936704-7FKH)
 
 ### Android System Design
 
@@ -737,11 +753,13 @@ Refer to this blog: [**Android System Design Interviews**](https://outcomeschool
 
 * **How do Voice And Video Call Work?** - [Learn from here](https://outcomeschool.com/blog/voice-and-video-call)
 
+* **In an Android App, how do you handle data syncing when the network isn’t stable?** - [Handling Android Data Sync on Unstable Networks](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-interview-activity-7369017963754029056-G8Gv)
+
 * **Design Uber App** - [Learn from here](https://github.com/amitshekhariitbhu/ridesharing-uber-lyft-app)
 
 * **Database Normalization vs Denormalization** - [Database Normalization vs Denormalization](https://outcomeschool.com/blog/database-normalization-vs-denormalization)
 
-* **Hash vs Encrypt vs Encode** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_outcomeschool-softwareengineering-activity-7227173077665660929--KD8)
+* **Hash vs Encrypt vs Encode** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-activity-7249769459790323712-ZF0O)
 
 * **Webhook vs Polling** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_softwareengineer-activity-7265962230553223168-fsPx)
 
@@ -755,7 +773,7 @@ Refer to this blog: [**Android System Design Interviews**](https://outcomeschool
 
 * **Query Optimization in SQLite for Better Performance** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7299289876846284801-3gfH)
 
-* **WebSocket vs Socket.IO** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_outcomeschool-softwareengineer-tech-activity-7305902742537916416-C5b9)
+* **WebSocket vs Socket.IO** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7371027069046030336-OcIC)
 
 * **Symmetric vs Asymmetric Encryption** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_symmetric-vs-asymmetric-encryption-activity-7308873320894996481-a43E)
 
@@ -793,6 +811,8 @@ Android Interview Questions and Answers:
 
 * **What is ADB?** - [Learn from here](https://developer.android.com/studio/command-line/adb)
 
+* **16 KB page size for Android Apps** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7352176600236351489-ACm6)
+
 * **What is the StrictMode?** - Learn from here: [StrictMode](https://outcomeschool.com/blog/strictmode-in-android-development)
 
 * **What is Lint? What is it used for?**
@@ -825,6 +845,8 @@ Android Interview Questions and Answers:
 
 * **Build Variants in Android** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7298197111030824962-6vW0)
 
+* **Desugaring in Android** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7352908041224118272-JkCu)
+
 * **APK Size Reduction.**
 
 * **How can you speed up the Gradle build?**
@@ -837,11 +859,107 @@ Android Interview Questions and Answers:
 
 * **What is proguard-rules.pro file used for?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7300763237942181888-P_jL)
 
+* **ProGuard vs R8 in Android** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7370862013998227456-tAlD)
+
 * **What is obfuscation? What is it used for? What about minification?**
 
 * **How to change some parameters in an app without app update?** - [Firebase Remote Config in Android](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7288408601944043520-pHZX)
 
 * **What is Write-Ahead Logging (WAL) and why it is used internally in databases?** - [Learn from here](https://outcomeschool.com/blog/write-ahead-logging)
+
+### Jetpack Compose
+
+Topics you should know in **Jetpack Compose** for Android Interview:
+
+* Compose
+* State: remember, rememberSaveable, MutableState
+* Recomposition
+* State hoisting
+* Side-effects
+* Modifier
+* Theme
+* Layout, List
+* Gestures, Animation
+* CompositionLocal
+* Phases
+
+Learn the above-mentioned from the following links:
+
+- [Getting Started with Compose](https://developer.android.com/jetpack/compose/tutorial)
+- [Thinking in Compose](https://developer.android.com/jetpack/compose/mental-model)
+- [State](https://developer.android.com/jetpack/compose/state)
+- [remember vs rememberSaveable](https://outcomeschool.com/blog/remember-vs-remembersaveable)
+- [Lifecycle](https://developer.android.com/jetpack/compose/lifecycle)
+- [Modifiers](https://developer.android.com/jetpack/compose/modifiers)
+- [Side-effects](https://developer.android.com/jetpack/compose/side-effects)
+- [Phases](https://www.linkedin.com/posts/outcomeschool_androiddev-compose-jetpack-activity-7359438711530426369-IQ8S)
+- [Semantics](https://developer.android.com/jetpack/compose/semantics)
+- [CompositionLocal](https://developer.android.com/jetpack/compose/compositionlocal)
+- [Can we use traditional Android Views and Compose together?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineering-tech-activity-7235142707138961408-40hQ)
+
+Questions
+
+* **Jetpack Compose vs Android View System**
+  
+* **Explain the concept of declarative UI in Jetpack Compose.**
+  
+* **Declarative UI vs Imperative UI**
+  
+* **What are Composable functions?**
+  
+* **What is Recomposition?**
+  
+* **What is State in Compose?**
+  
+* **How does state management work in Jetpack Compose?**
+  
+* **Stateful composable vs Stateless composable**
+  
+* **What are the side effects?**
+  
+* **Difference between LaunchedEffect and DisposableEffect**.
+  
+* **What is rememberCoroutineScope and its use cases?**
+  
+* **How to observe Flows, and LiveData states in Compose UI?**
+  
+* **How can we handle asynchronous operations in Jetpack Compose?**
+  
+* **How can we convert a non-compose state into a Compose state?**
+  
+* **Explain derivedStateOf.**
+  
+* **Explain rememberUpdatedState.**
+  
+* **Difference between remember and rememberSaveable.** - [Learn from here](https://outcomeschool.com/blog/remember-vs-remembersaveable)
+  
+* **Explain the Lifecycle of a Composable in Jetpack Compose.**
+  
+* **How do you handle lifecycle events in Compose functions?**
+  
+* **What are the best practices for performance optimization in Jetpack Compose?**
+  
+* **Can we use both Jetpack Compose and Android View in a Single App?**
+  
+* **What is State Hoisting?**
+  
+* **Explain CompositionLocal**
+  
+* **Explain Jetpack Compose Phases.** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_androiddev-compose-jetpack-activity-7359438711530426369-IQ8S)
+  
+* **What is the role of the Modifier in Jetpack Compose?**
+  
+* **What are Semantics?**
+  
+* **How can you handle user input and events in Jetpack Compose?**
+  
+* **How do you handle navigation in Jetpack Compose?**
+  
+* **How do you handle orientation changes in Jetpack Compose?**
+  
+* **Explain the concept of unidirectional data flow in Jetpack Compose.**
+  
+* **How to create Custom Layouts in Compose?**
 
 ### Java
 
@@ -868,6 +986,8 @@ Android Interview Questions and Answers:
     implementation for each of these methods. Interfaces are implemented.
 
 * **Difference between method overloading and overriding.**
+
+* **Explain "String Pool" in Java** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7354122537204666368-HwxH)
 
 * **What are the access modifiers you know? What does each one do?**
    - There are four access modifiers in Java language (from strictest to the most lenient):
@@ -940,7 +1060,7 @@ Android Interview Questions and Answers:
 
 * **Object Level Lock vs Class Level Lock in Java** - [Learn from here](https://x.com/amitiitbhu/status/1818156936413778332)
 
-* **Concurrency vs Parallelism** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_outcomeschool-softwareengineering-activity-7226208648115404801-u8uu)
+* **Concurrency vs Parallelism** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-activity-7370752695130914816-1mxl)
 
 * **The classes in the atomic package expose a common set of methods: `get`, `set,`, `lazyset`, `compareAndSet`, and `weakCompareAndSet`. Please describe them.**
 
@@ -954,7 +1074,7 @@ Android Interview Questions and Answers:
 
 * **Shallow vs. Deep Copy in Java** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineering-activity-7224635014641016834-j8X1)
 
-* **Explain Serialization and Deserialization** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_outcomeschool-softwareengineering-tech-activity-7228977637916823552-Bo2N)
+* **Explain Serialization and Deserialization** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7371542771142373376-NbFD)
 
 * **What is serialization? How do you implement it?**
 
@@ -991,99 +1111,6 @@ Android Interview Questions and Answers:
 * **What is the difference between fail-fast and fail-safe iterators in Java?**
 
 * **Monitor and Synchronization**
-
-### Jetpack Compose
-
-Topics you should know in **Jetpack Compose** for Android Interview:
-
-* Compose
-* State: remember, rememberSaveable, MutableState
-* Recomposition
-* State hoisting
-* Side-effects
-* Modifier
-* Theme
-* Layout, List
-* Gestures, Animation
-* CompositionLocal
-
-Learn the above-mentioned from the following links:
-
-- [Getting Started with Compose](https://developer.android.com/jetpack/compose/tutorial)
-- [Thinking in Compose](https://developer.android.com/jetpack/compose/mental-model)
-- [State](https://developer.android.com/jetpack/compose/state)
-- [remember vs rememberSaveable](https://outcomeschool.com/blog/remember-vs-remembersaveable)
-- [Lifecycle](https://developer.android.com/jetpack/compose/lifecycle)
-- [Modifiers](https://developer.android.com/jetpack/compose/modifiers)
-- [Side-effects](https://developer.android.com/jetpack/compose/side-effects)
-- [Phases](https://developer.android.com/jetpack/compose/phases)
-- [Semantics](https://developer.android.com/jetpack/compose/semantics)
-- [CompositionLocal](https://developer.android.com/jetpack/compose/compositionlocal)
-- [Can we use traditional Android Views and Compose together?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineering-tech-activity-7235142707138961408-40hQ)
-
-Questions
-
-* **Jetpack Compose vs Android View System**
-  
-* **Explain the concept of declarative UI in Jetpack Compose.**
-  
-* **Declarative UI vs Imperative UI**
-  
-* **What are Composable functions?**
-  
-* **What is Recomposition?**
-  
-* **What is State in Compose?**
-  
-* **How does state management work in Jetpack Compose?**
-  
-* **Stateful composable vs Stateless composable**
-  
-* **What are the side effects?**
-  
-* **Difference between LaunchedEffect and DisposableEffect**.
-  
-* **What is rememberCoroutineScope and its use cases?**
-  
-* **How to observe Flows, and LiveData states in Compose UI?**
-  
-* **How can we handle asynchronous operations in Jetpack Compose?**
-  
-* **How can we convert a non-compose state into a Compose state?**
-  
-* **Explain derivedStateOf.**
-  
-* **Explain rememberUpdatedState.**
-  
-* **Difference between remember and rememberSaveable.** - [Learn from here](https://outcomeschool.com/blog/remember-vs-remembersaveable)
-  
-* **Explain the Lifecycle of a Composable in Jetpack Compose.**
-  
-* **How do you handle lifecycle events in Compose functions?**
-  
-* **What are the best practices for performance optimization in Jetpack Compose?**
-  
-* **Can we use both Jetpack Compose and Android View in a Single App?**
-  
-* **What is State Hoisting?**
-  
-* **Explain CompositionLocal**
-  
-* **Explain Jetpack Compose Phases.**
-  
-* **What is the role of the Modifier in Jetpack Compose?**
-  
-* **What are Semantics?**
-  
-* **How can you handle user input and events in Jetpack Compose?**
-  
-* **How do you handle navigation in Jetpack Compose?**
-  
-* **How do you handle orientation changes in Jetpack Compose?**
-  
-* **Explain the concept of unidirectional data flow in Jetpack Compose.**
-  
-* **How to create Custom Layouts in Compose?**
 
 ### Other Topics
 
@@ -1139,14 +1166,14 @@ Android Interview Questions and Answers:
 
 You can connect with me on:
 
-- [Twitter](https://twitter.com/amitiitbhu)
+- [X/Twitter](https://x.com/amitiitbhu)
 - [YouTube](https://www.youtube.com/@amitshekhar)
 - [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
 - [GitHub](https://github.com/amitshekhariitbhu)
 
 ### License
 ```
-   Copyright (C) 2024 Amit Shekhar
+   Copyright (C) 2025 Amit Shekhar
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
