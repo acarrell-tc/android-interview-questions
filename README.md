@@ -27,7 +27,7 @@ Interacted with over **500 Android Developers**.
 
 Guided, motivated, and inspired them to aim higher and achieve more.
 
-**Recording Link**: https://drive.google.com/file/d/1VWW3l_itH6vYbNYzNer6XW5_x0jzOF4O/view?usp=sharing
+**Recording Link**: https://www.youtube.com/watch?v=Yby0AA7ZSUE
 
 **Document Link**: https://docs.google.com/document/d/14UdD7Gd1j3no583ALx2t2Ggt3G_CECYhenLE-m-bkzA/edit?usp=sharing
 
@@ -47,9 +47,23 @@ Guided, motivated, and inspired them to aim higher and achieve more.
 * [Jetpack Compose](#jetpack-compose)
 * [Java](#java)
 * [Other Topics](#other-topics)
-* [Data Structures and Algorithms](#data-structures-and-algorithms) 
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
+
+---
+* **For Android Machine Coding Round Interview, Check**: [Android Machine Coding Round Interview](https://outcomeschool.substack.com/p/android-machine-coding-round-interview)
+---
+## I teach at Outcome School
+
+- [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning)
+- [Android](https://outcomeschool.com/program/android)
+
+Join Outcome School and get a high-paying tech job: [Outcome School](https://outcomeschool.com)
+
+## Fast-Track Android Interview Preparation: [Join Outcome School Android Program](https://outcomeschool.com/program/android)
 
 ### Android Interview Questions and Answers Playlist
+
+Watch this video on "Android Developer Interview Preparation for Product-Based Companies": [Android Developer Interview Preparation for Product-Based Companies](https://www.youtube.com/watch?v=Yby0AA7ZSUE) 
 
 - **Question**: Android Push Notification Flow using FCM
     - **Answer**: [Android Push Notification Flow using FCM](https://www.youtube.com/watch?v=TrufwW4ILHg)
@@ -61,6 +75,8 @@ Guided, motivated, and inspired them to aim higher and achieve more.
     - **Answer**: [What is a reified keyword in Kotlin?](https://www.youtube.com/watch?v=kD2T84FnTck)
 - **Question**: Suspending vs Blocking in Kotlin Coroutines
     - **Answer**: [Suspending vs Blocking in Kotlin Coroutines](https://www.youtube.com/watch?v=V2lL_aJp17I)
+- **Question**: Retrofit vs OkHttp
+    - **Answer**: [Retrofit vs OkHttp](https://www.youtube.com/watch?v=-6m2D2KTIpE)
 - **Question**: Launch vs Async in Kotlin Coroutines
     - **Answer**: [Launch vs Async in Kotlin Coroutines](https://www.youtube.com/watch?v=B4AfTPpCU5o)
 - **Question**: internal visibility modifier in Kotlin
@@ -97,6 +113,8 @@ Guided, motivated, and inspired them to aim higher and achieve more.
     - **Answer**: [Why do we need to call setContentView() in onCreate() of Activity class?](https://www.youtube.com/watch?v=U1aHAt7XC5I)
 - **Question**: When only onDestroy is called for an activity without onPause() and onStop()?
     - **Answer**: [When only onDestroy is called for an activity without onPause() and onStop()?](https://www.youtube.com/watch?v=B2kY_ckZa-g)
+
+## Fast-Track Android Interview Preparation: [Join Outcome School Android Program](https://outcomeschool.com/program/android)
 
 ### Kotlin Coroutines
 
@@ -285,7 +303,7 @@ Android Interview Questions and Answers:
 
 * **What happens if an exception is thrown inside an async coroutine, but await() is never called?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_kotlin-androiddev-activity-7353980436689145856-CTeE)
 
-* **How to Implement Debounce Using Coroutines?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7285163906686164994-tOUK)
+* **How to Implement Debounce Using Coroutines?** - [Learn from here](https://outcomeschool.substack.com/p/how-to-implement-debounce-using-coroutines)
 
 * **Kotlin code snippet demonstrating how to run two coroutines in series and parallel** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7297944609614139392-h9NZ/)
 
@@ -299,6 +317,8 @@ Android Interview Questions and Answers:
 
 * **collect vs collectLatest in Kotlin Flow** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-kotlin-activity-7371769230389731328-UXPY)
 
+## Fast-Track Android Interview Preparation: [Join Outcome School Android Program](https://outcomeschool.com/program/android)
+
 ### Android
 
 Android Interview Questions and Answers:
@@ -308,6 +328,8 @@ Android Interview Questions and Answers:
 * **Why does an Android App lag?** - [Learn from here](https://outcomeschool.com/blog/android-app-lag)
 
 * **What is `Context`? How is it used?** - [Context In Android Application](https://outcomeschool.com/blog/context-in-android-application)
+
+* **How Zygote makes Android apps start faster?** - [How Zygote makes Android apps start faster?](https://outcomeschool.substack.com/p/how-zygote-makes-android-apps-start)
 
 * **Tell all the Android application components.** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7302543942028251137-S3vJ)
 
@@ -516,6 +538,8 @@ Android Interview Questions and Answers:
 
 * **How to implement Dark mode in any application?**
 
+## Fast-Track Android Interview Preparation: [Join Outcome School Android Program](https://outcomeschool.com/program/android)
+
 #### Memory Optimizations
 
 * **Improve Android App Performance** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7314877712815345664-iB7z)
@@ -558,7 +582,7 @@ Android Interview Questions and Answers:
 
 * **What are the differences between Dalvik and ART?** - [Difference between Dalvik and ART](https://outcomeschool.com/blog/dalvik-art-jit-aot)
 
-* **Baseline Profiles** - [Learn from here](https://outcomeschool.com/blog/dalvik-art-jit-aot)
+* **Baseline Profiles** - [Learn from here](https://outcomeschool.substack.com/p/baseline-profiles-in-android)
 
 * **What is DEX?** - [Learn from here](https://developer.android.com/reference/dalvik/system/DexFile)
 
@@ -682,6 +706,8 @@ Android Interview Questions and Answers:
 
 * **Difference between Schedulers.io() and Schedulers.computation() in RxJava.**
 
+## Fast-Track Android Interview Preparation: [Join Outcome School Android Program](https://outcomeschool.com/program/android)
+
 ### Android Architecture
 
 Android Interview Questions and Answers:
@@ -714,6 +740,7 @@ Android Interview Questions and Answers
 * **Adapter**
 * **Facade**
 * **Dependency Injection**
+* **Strategy Pattern** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-android-activity-7396043401357533184-a6OQ)
 * **Design Pattern used in Android** - [Learn from here](https://outcomeschool.substack.com/p/design-patterns-in-android-libraries)
 * **Kotlin Optional Parameters vs Builder Pattern** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7270656113845370881-LDW8)
 * **Examples of the Observer pattern used in Android** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-activity-7288114509120970752-Z6c8)
@@ -749,6 +776,8 @@ Refer to this blog: [**Android System Design Interviews**](https://outcomeschool
 
 * **Design Analytics Library**
 
+* **Design Logging Library** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-android-interview-activity-7413072570452717568-K2Pb)
+
 * **HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events** - [Learn from blog](https://outcomeschool.com/blog/http-request-long-polling-websocket-sse) and [Video - HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events](https://www.youtube.com/watch?v=8ksWRX4xV-s)
 
 * **How do Voice And Video Call Work?** - [Learn from here](https://outcomeschool.com/blog/voice-and-video-call)
@@ -756,6 +785,8 @@ Refer to this blog: [**Android System Design Interviews**](https://outcomeschool
 * **In an Android App, how do you handle data syncing when the network isn’t stable?** - [Handling Android Data Sync on Unstable Networks](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-interview-activity-7369017963754029056-G8Gv)
 
 * **Design Uber App** - [Learn from here](https://github.com/amitshekhariitbhu/ridesharing-uber-lyft-app)
+
+* **How "Where Is My Train" Works Without Internet?** - [How "Where Is My Train" Works Without Internet?](https://outcomeschool.substack.com/p/how-where-is-my-train-works-without)
 
 * **Database Normalization vs Denormalization** - [Database Normalization vs Denormalization](https://outcomeschool.com/blog/database-normalization-vs-denormalization)
 
@@ -778,6 +809,8 @@ Refer to this blog: [**Android System Design Interviews**](https://outcomeschool
 * **Symmetric vs Asymmetric Encryption** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_symmetric-vs-asymmetric-encryption-activity-7308873320894996481-a43E)
 
 * **SMS Retriever API in Android** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_sms-retriever-api-in-android-activity-7309171578796224513-YRab)
+
+## Fast-Track Android Interview Preparation: [Join Outcome School Android Program](https://outcomeschool.com/program/android)
 
 ### Android Unit Testing
 
@@ -960,6 +993,8 @@ Questions
 * **Explain the concept of unidirectional data flow in Jetpack Compose.**
   
 * **How to create Custom Layouts in Compose?**
+
+## Fast-Track Android Interview Preparation: [Join Outcome School Android Program](https://outcomeschool.com/program/android)
 
 ### Java
 
@@ -1159,6 +1194,10 @@ Android Interview Questions and Answers:
 ### High-quality blogs to prepare for Android Interview - [Check here - Outcome School Blog](https://outcomeschool.com/blog)
 
 ### Prepare for Machine Learning Interview: [Machine Learning Interview Questions](https://github.com/amitshekhariitbhu/machine-learning-interview-questions)
+
+### Prepare for AI Engineering Interview: [AI Engineerin Interview Questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
+
+## Fast-Track Android Interview Preparation: [Join Outcome School Android Program](https://outcomeschool.com/program/android)
 
 ### Found this project useful :heart:
 
